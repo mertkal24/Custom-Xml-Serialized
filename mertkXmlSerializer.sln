@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mertkXmlSerializer", "mertkXmlSerializer\mertkXmlSerializer.csproj", "{062EAF47-63CD-4A9D-80DC-4393B26B1B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062EAF47-63CD-4A9D-80DC-4393B26B1B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062EAF47-63CD-4A9D-80DC-4393B26B1B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062EAF47-63CD-4A9D-80DC-4393B26B1B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062EAF47-63CD-4A9D-80DC-4393B26B1B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9173CA1-9942-4A56-BA19-8D15F2E0EA27}
+	EndGlobalSection
+EndGlobal

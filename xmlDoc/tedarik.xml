@@ -1,0 +1,12 @@
+<Product>
+<Id>1</Id>
+<Name>Şampuan</Name>
+<Tedarikci>Elidor</Tedarikci>
+<Fiyat>15</Fiyat>
+</Product>
+<Product>
+<Id>2</Id>
+<Name>Deterjan</Name>
+<Tedarikci>Omo</Tedarikci>
+<Fiyat>112</Fiyat>
+</Product>

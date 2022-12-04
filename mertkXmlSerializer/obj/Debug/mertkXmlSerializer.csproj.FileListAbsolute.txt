@@ -1,0 +1,10 @@
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\bin\Debug\mertkXmlSerializer.exe.config
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\bin\Debug\mertkXmlSerializer.exe
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\bin\Debug\mertkXmlSerializer.pdb
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.Form1.resources
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.Properties.Resources.resources
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.exe
+C:\Users\Casper\Desktop\C# Eğitim\mertkXmlSerializer\mertkXmlSerializer\obj\Debug\mertkXmlSerializer.pdb
